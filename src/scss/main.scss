@@ -1,0 +1,7 @@
+ // @import "./variables.scss";
+ @use "./variables" as *;
+
+body {
+  background-color: $primary-color;
+}
+
